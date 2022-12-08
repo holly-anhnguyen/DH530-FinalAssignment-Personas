@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Nguyen"
+  given-names: "Holly"
+title: "Datasets of Nielson and Norman's articles and 2 Discord UX communities"
+version: 1.0.0
+date-released: 2021-12-8
+url: "https://github.com/holly-anhnguyen/DH530-FinalAssignment-Personas"
