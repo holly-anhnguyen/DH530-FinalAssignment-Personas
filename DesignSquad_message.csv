@@ -1,0 +1,388 @@
+1,2,Design squad message
+,,"The short answer to all your questions is: it depends. 
+“Basic design rules” (I prefer to use the term “design principles”) might not always apply. All of this can be summed up around two axis: risk and knowledge. The less you know about something, the more risk there is to do or not do something about it. Research is an investment against the risk of not knowing, because if you’re wrong about something that have high risk to disrupt your business then what’s the cost of that? Now you can be smart about how you do research. As I discussed with <@902908123155668993> recently on “prescriptive methods”, you can design things just for the purpose of learning. What important in any case is being able to monitor the impacts of and evaluate your design.
+
+FYI, I devised some canvases for the design challenge, one of which is a matrix to help participants know when to invest in research. Attached is a presentation video that might help you 👉 https://miro.com/app/board/uXjVPS5--zA=/?share_link_id=687612265055"
+,,looking through the whole site is a better fit for a heuristic analysis than a usability test.
+,,"you should go into your research with set goals, without the goal being ""test the site"". You should have questions you want to answer like ""I want to see if users understand this interaction"" or ""I want to see if users can complete X task"" or ""I want to see how long it takes for users to..."" etc."
+,,Al right! Thank you for you answer <@559326067706560515> So another related question is: do we have to test everything? What about basic design rules? Because isn’t more  expensive on human Resources and money to test everything? How do we know when to test and when to not test?
+,,"<@763776942989901845> On cognitive load measurement, also find this study comparison of 4 different methods 👉 https://www.researchgate.net/publication/241622665_A_comparison_of_four_methods_for_cognitive_load_measurement"
+,,"I would also recommend you think about a counter-hypothesis and test for that as well. This helps avoid confirmation bias and think about what we would otherwise not consider. Try to have a Bayesian approach (https://youtu.be/kpdBOUnynps), where several hypothesises are likely to be true on a scale of probabilities and you test for “what would you expect to see if your were to be wrong”."
+,,"<@763776942989901845> well I would say you don’t measure the design itself but its effect on the interaction with the system. To test for your hypothesis is in fact not that difficult because you don’t expect a “reduction in cognitive load” but rather an “increase in task performance”. Cognitive load refers to the amount of working memory resources used. You cannot measure directly for it, rather we measure it through indirect indicators which allow us to measure variations on task-response-to-execution.
+
+So in a similar setup, you can measure your design with and without the said description that you hypothesise is increasing cognitive load. You expect to see a significant increase in task performance. Defining a primary (and potentially a secondary) task is key to isolate variable. Additionally, you can also test for content scanning from participants, what are, in the few first seconds, the main elements participants identify and eventually can recall."
+,,At the same time he doesn’t take much time to hear my arguments. I only have like 7 minutes of meeting with him each day always in a hurry
+,,"And that’s just an example. My boss doesn’t let me change anything unless I can prove that change is necessary… or if he doesn’t see the value on changing it. But sometimes not everything can be tested, right? It’s just basic design rules right?"
+,,"Hello! How can we test users for cognitive load? So below a title there’s a description (on menus). And my hypothesis is that nobody reads that description because the title is self-explanatory. So I want to remove it in order to reduce cognitive load for users or (perceived cognitive load). But my boss says that if “it doesn’t hurt then let it be”. Or if we don’t have data to validate those changes, we shouldn’t change it. However this is like a basic design rule, not overloading users with unnecessary information. So how I can convince him of this change or how can I test users to confirm this hypothesis?"
+,,"Your question is oddly framed and I’m not sure to get what you’re asking, so please don’t hesitate to add more context to it or reframe it 🙏 
+But from my initial understanding 👉 You don’t “create” a product-market fit, you **find** it. This requires to have a product on the market, and you basically try to meet initial demand, gain momentum, etc. One approach to find if you’re heading in the right direction is surveying customers about how “disappointed” they would be if they no longer had access to your product or service.
+
+But perhaps you are asking about how to create a Value Proposition?
+Well either way, surveys and interviews don’t really serve the same purpose. 
+
+Interviews let you gather rich informal qualitative data as people might share with you unprompted-yet-extremely useful information. Methodologically, it is a way to discover new patterns and insights in a synchronous manner (i.e. one to one, face to face) and is open-ended form of inquiry by design.
+
+Surveys let you gather way more data because of its asynchronicity. Methodologically, it is used to confirm or answer a question/hypothesis. It is good practice though to ask open-ended questions and/or let respondents the option to add open comments to mitigate the framing of your survey.
+
+Hope this is helpful in anyway."
+,,how would you create a product market fit via qualitative survey vs interview? why open-ended questions cant be possible ?
+,,"Yes, now I understand I appreciate your help 🌷💜"
+,,"I know it's still pretty general, but hopefully it helps make everything feel less overwhelming. 
+
+Your product *always* has a competitor. It's just that, sometimes your competitor won't be obvious. A cafe competes with not only other cafes but also with home machines and coffee substitutes. 
+
+A book competes with an exciting social media feed. The medium is attention rather than the features of either product. This kind of thing.
+
+Does that make sense?"
+,,Thank you 😍 this is really valuable  and insigtful advice
+,,"OK, now I understand 🙂
+
+Even if there is no direct competitor, it's likely that your product has indirect comparators - for example, if you were designing a new experience to monitor solar energy usage, even if there wasn't a direct competitor in the field, you could look at similar patterns of usage employed by other services that monitor usage of a resource or enable a person to manage their resources.
+
+Try to think of the product in terms of what goal it aims to achieve. Your product is solving a problem. How are people trying to solve that problem, currently? Are there comparisons to related areas where there are similar problems in different product spaces? (For example, a product offers a curated landing page based on a user's interests. This kind of mechanism could be equally employed for an online marketplace as well as a dating app - very different outcomes, but perhaps the same underlying needs, filtering for specific qualities, 'shopping around', checking ratings)
+
+Don't get too hung up on formalised methods early on, you'll get more of a finesse for this over time. Really, what is most useful is mapping out your problem, what people are doing about it, and how your product is delivering on this need - or maybe not, after casually showing it to prospective customers.
+
+Look up ""Generative research"", it might help give you an idea of how to get started on defining your research. https://www.youtube.com/watch?v=NyQZzl5Hwi0"
+,,"I just want the opinion of people who have more experience.
+I don't want to people research for me.
+As the NNgroup said for finding users' future behavior we should see what people did in the past but when we don't have any past 
+What we can do?
+If the product is very new and has no competitor. 
+Thank you for your advice but I just ask for some opinions. 
+I read a lot of books and I also watched IDF courses but sometimes people's experience in the industry is more valuable than thousands of books."
+,,"Are you asking how to do this?
+
+To simplify - why don't you just ask them? You could find people you know who use this product. Perhaps write down points of interest. I'm not really clear on what you're asking here.
+
+Perhaps there's something of interest here: https://ladetawak.notion.site/A-Beginner-s-Guide-to-Getting-Started-in-UX-Research-1e3e0567b4944c938ae8d1a4f0a21c56#2c3406084533498eb7d89bca1648abe7"
+,,"To be honest, I think you would benefit a lot more doing your own research, here 🙂 why don't you look at various services & websites and capture screenshots of different offerings, note what they have in common, see if there are themes that pop up?
+
+Especially because you're new, you should get more comfortable with learning more about your problems, it will help you form your own opinions and not default to using existing materials."
+,,"Folks please don't use ""everyone"", the channel will still be able to see your message. Thanks 🙂"
+,,"Hi @everyone, I'm new to UI/UX field and I need you help.
+I'm working on project where the client want to test some different discount presentations for Black Friday and they want to stay away from red. 
+
+Can you share some resources where I can check what colours are most used for Black Friday (I assume its mostly black and red ) and how the discounts are presented on websites (banners, buttons, popup etc.). Thank you"
+,,colours
+,,Thanks 🙂
+,,"Yes, that’s very common. “Resource constraints” aka “we don’t see the value on doing it and spend resources on it”  🤷‍♀️"
+,,<@948101049682644992> <@763776942989901845> thanks! Just curious since I've been in a few situations where this hasn't really been the case or can't be due to resource constraints.
+,,"I was working on some user research and heard about the Laddering technique for moderated studies. I tried it and it worked really well. 
+
+I put together these notes from a few articles. https://www.notion.so/isaac-lifex/Laddering-A-Research-Interview-Technique-44ff5b26d90d4055aa2e56ad4159dca7
+
+Have you used this technique at all? Any thoughts / best practices/stories?"
+,,Yeap. www.isaacmarcum.com in my portfolio. A portfolio should show some of the artifacts.
+,,"Yes, of course! Not exactly like in the book, but at least for me I use it to organize the various mock-ups I have to do according various users flows (according the various users segmentations we have or points of entry)"
+,,"not an expert on that, I could be wrong, if so someone do correct me, for me I would let the interviewee get comfortable to talk first, by asking about questions like, ""can u walk me through your day, when using this app"" questions that would be the ice breaker, to get the interviewee to talk more, then along that u can understand any doubts u have about the flow, and then clarify the related questions at those specific touchpoints in the conversation, and then after all that, ask the rest of the unrelated questions. try to make it look like a friendly convo rather than an interrogation."
+,,Does anyone here still actually use research deliverables like elaborate journey maps or user flows to summarize their work?
+,,"If I'm not mistaken maybe this might help, https://maze.co/collections/ux-ui-design/ux-team-kpis/"
+,,"Hello all - does anyone have advice as to how to create success metrics (i.e. benchmarking) for an application? How do we know what numbers to define success? For example, if we want to define a benchmark by the task success rate: What % of successes would be considered 'good'?"
+,,"Hey guys! Question about the interviews. I want to test order flow with the users, but it's a bit more technical. Users are real customers of ours. Should I first let them do the flow or first ask questions to clarify some of the things? 🤔"
+,,Has anyone done research on freelancing app and website??
+,,<#923667748213629048> would be the place to post surveys. And please don't post on multiple channels.
+,,"Hello @everyone , I hope you all are doing well  🤩  I'm currently conducting a design case study The survey takes ~ 1-2 minutes to fill out, and we would really appreciate the fellow support! 😄 
+
+Form link: https://forms.gle/94EmwB5KpxtM83Gw8"
+,,Thank you
+,,"Hello <@405161132706496523> ,
+The company’s goals, objectives and target market will help shape your new personas"
+,,"Hello everyone, I wanted to ask you guys a question: 
+
+I’ve been told to update some personas the company I work at uses heavily (they haven’t been updated since 2021 and a lot has changed since then eg: covid, remote working, changes within the industry as a whole).
+
+Q:) What do you guys think would be the best research method to deploy/ a good way to go about this? 
+
+I have my own thoughts on this, but a second opinion from others would be extremely valuable. 
+
+
+Thank you"
+,,"I don't have research but I have SMEs I worked with at a previous position where we did the lifecycle of Hilton HHonors members. If you DM me, I can put you in touch."
+,,"I m working on a new research study for member lifecycle. Looking for examples online and coming up short. 
+
+Know of any case studies, or published examples of a research study? Love to see the types of questions and techniques someone used. Or if you have suggestions. 🙏"
+,,"Hey, thanks! I'll post there 🙂"
+,,"Hello! I'm also new to the server so I hope my answer will not be misleading.
+
+I think that your post would belong to <#923667748213629048> if you're only looking for participants. 
+It seems that this part of the chat would rather be the one to discuss your approach at usability evaluation (what method/tools to use, etc.)"
+,,"Hey, I'm Mahima. You can also call me Max. I'm a beginner in the field of UX Design and I'm also new to this server and unsure of where I need to post this so I'm posting here. If I've posted in the wrong place or if this type of content isn't allowed, let me know, I'll take down my post immediately. 
+
+I'm currently enrolled in Google's UX Design Professional Certificate course on Coursera. The course consists of 7 courses of which I'm in the 4th one. In this part of the course, I'm supposed to conduct a usability study for the Lo-fi prototype of an I built earlier in the course. I'm looking for participants for the usability study. If you're interested, please let me know!"
+,,"https://www.muledesign.com/blog/design-research-maturity
+
+These questions can be helpful in your next UXR or UX job search to gauge the research maturity of the company you're interviewing for"
+,,Offhand Basically determining
+,,"Offhand? Basically determining:
+- will the question if univestigated cause harm to users, the product, or the company?
+
+If no, I usually just bring it up in a weekly sync.
+
+If yes, I escalate it so we can get resources/eyes on it"
+,,"How do you as a researcher, determine if a curiosity or concern voiced by a company is worth researching or not?"
+,,"I am making another database to help me visualize aspects of UX research. I am working on a list of UX research deliverables. 
+
+I hope to share this after I finish it up. Do you have any to add to the list? Is there any good tags or other data that would be helpful in a database view like this? (Opps... added Affinity diagram after sharing)"
+,,What areas of interviewing do you feel you need help with?
+,,Prioritization and validation of ideas
+,,"I have thoughts, but it's late here so will reply in the morning. Stay tuned!"
+,,But what kind of research methods exists for validating ideas and prioritizing ideas?
+,,"Right, but ideally before moving you would want to align with the stakeholders. Try communicating your concerns and why you think xyz ideas should be prioritized and researched. Who knows, yours ceo could get convinced and you can start researching that. Better try and fail than give up right 😄 
+
+You don't even need to think of personas or journey maps at this point, those are just artefacts of the research that you'd do to communicate value"
+,,"And again it’s a startup I won’t have much time or resources to do personas, user journey maps and so on. I’m even doing this thing on my spare time (pitching ideas). If I don’t do it my boss would simply do what he thinks it’s the best thing to do. I could leave him alone and just do my work."
+,,If the ideas actually solve our users problems
+,,"So there’s a little bit of ego that I have to handle, but basically my goal is among the ideas we have right now to understand based on data and user research what should we invest our time with."
+,,"On what my role is concerned, I can only pitch the ideas and show my boss arguments on why some ideas should be prioritized over another. However he does a lot what he thinks is the best thing to do, according with his opinion. He even says things like “what do we have right now to prove that’s the right way to go?” and denies some of my ideas or says they are not important right now. However there’s a good sign, at least I know that if I have good arguments and actual data he won’t deny it. Although he goes on with his own ideas (even if his ideas are not “proven” to be right)"
+,,"So basically, we have a lot of ideas going on and hypothesis. They are a lot and of course we can’t implement them right the way. So we need to prioritize our ideas, what ideas do users really want? Where should we invest our time? What will bring more return? The obvious solution would be asking users what they want to see on the platform. But that wouldn’t work right?"
+,,"Hi Luísa, there should always be a reason behind doing user research. So I guess, I would ask you what do you want to uncover from the research? 
+Because research without a focus, ends up with sparse data points with low to no actionable insights.
+
+So you'd want to define what do you want to figure out. Is there a problem you see? Or hypothesis you have? or maybe you want to gain more insight into your user's behaviors? Start by picking a focus area. If case you do not have any direction, maybe do some stakeholder interviews and get to know what's on their mind, do they have any hypothesis, or what do they wish they knew about the users? 
+
+From there you will define your research plan, which would comprise of research goals, the time you have, budget, appropriate methods etc."
+,,"I know this is a um huge topic on user research, but could you at least tell me where to start? I’m just stuck, I don’t know how to start or where to look"
+,,"I can’t do obvious stuff like interviews because users simply won’t do it just for points. So I had to be something less heavy, for example like asking for feedback? But how to ask for feedback without end up being vague? Like asking directly to users “what should we build”?"
+,,"I would like to use this window to do a little bit more of user research. But I don’t know what to do. What do you think I should do? Or where can I find some guidance? Like what user research methods can I use, should I use? I don’t really have a goal in mind, but shouldn’t research be done without goals in mind?"
+,,So I have like a 2 month window where I can also give extra points to our users in exchange for their help with something.
+,,So basically I’m in a startup so we have a lot of constraints on user research. Luckily we have embarked in a gamified project and we can reward students with points (and those points will get them chances of winning prizes)
+,,Hello!! Hi need your advice about something.
+,,<#923667748213629048> would be the channel for it
+,,"Hi, try not to cross post your survey link 🙂 <@707635343406399649>"
+,,done
+,,"Hello @everyone , I hope you all are doing well  🤩  I'm currently conducting a design case study, and would like to survey on folks who are looking to learn more about careers in tech. I thought that all of you could be great potential users to survey! The survey takes ~ 1-2 minutes to fill out, and we would really appreciate the fellow support! 😄 
+
+Form link: https://forms.gle/p1EcK3kfKy2jcn7E8"
+,,"Hey, I'm a little caught up rn. I have shared my case study in a post in <#1023240922093322403> .. it has the prototype link. You can check there. 
+Feel free to DM me if you have any more ques."
+,,"yeah, its true. may i ask how you prototyped it?"
+,,"Hey <@319618504418394123> , I just finished prototyping a bookmarking app as well. Though it doesn't have the related items on it, just bookmarks. 
+I'm wondering if you have a single feed for both, even the real users would want to know which things are stuff they saved vs which are the recommendations. No?"
+,,"that's true. the thing is, when a user opens our app, we want to show them a mixture of both things that they have bookmarked + related items from around the web. both of these would be mixed together in the same feed. so, how would the user be able to tell from the prototype which things are stuff they saved vs which things are recommendations from around the web?"
+,,"I would most certainly tell the user that this is a prototype and actions aren't really performed, that everything within the test is staged to represent a glimpse of how will the real application work when it's built"
+,,"how would you go about user testing a bookmarking app through a fake prototype? bookmarking apps feel more realistic when all the data in it is stuff that YOU have saved. In a figma prototype, all the data would be fake, so the user might not understand that this is supposed to represent their bookmarks, thus ruining the results of the test"
+,,Ok thank you
+,,"learn by doing and adjust over time without overthinking it too much would be my advice - big problems need a lot of research to strategise, small ones can be very lean and experimental"
+,,"How long is the piece of string... or how big is the problem?
+
+It depends on the risk vs clarity - you need to discover just enough to know enough to proceed with manageable or low risk of action. 
+
+also depends how intense those weeks will be: interviews, workshops, other research bits and bobs. Also you need time to synthesise and process the themes and insights, etc."
+,,"Hello, I was just wondering: what do you think is an appropriate & realistic amount of time to spend in the discovery phase in a big company? I’m the sole UX Researcher on the team. I’ve read in some places 2-3 weeks is realistic, and elsewhere 8 weeks so I just wanted to know what everyone else’s opinion on this is."
+,,Things are not binary and good prospective work combined with proper user research have the potential for great coupling effect. A missing layer here is **sensemaking** (with a multi-ontological framework) is the necessary ground for blending practices.
+,,"Research vs Vision: the origin story of Sony Walkman, Mini Cooper, and the iPhone
+https://uxdesign.cc/research-vs-vision-the-origin-story-of-sony-walkman-mini-cooper-and-the-iphone-e5c8623968bc
+
+Subject connected to this post I shared 👉 https://discord.com/channels/808005473290289172/808018793946415154/1023906842147045396"
+,,I will! Currently trying to set it up for work/ux but also personal stuff like how to communicate at work etc
+,,"Awesome, thanks so much"
+,,"If you get into Notion, hit me up with questions."
+,,Opps. Here it is: https://www.youtube.com/watch?v=UQcfDEGPxDY&ab_channel=BetterCreating
+,,Is this a different video?
+,,https://www.youtube.com/watch?v=UQcfDEGPxDY&ab_channel=BetterCreating
+,,I used this template and changed it a lot to be closer to August Brady's. Id just do Augusts but it costs over a 1000$ dollars 😆
+,,And <@!726431491784966144> thank you as well 😘
+,,"Awesome!! Thank you so much for this, was reading into second brain, so supernice to implement this into ux"
+,,"Notion is AMAZING for big data sets. I use it for my ""personal OS"" and am a big fan of august bradly. Check him out. 
+
+As far as UXR, you can make databases with information, tag that information, and search.  I also like how each data entry in can be it's own page. So for instance the Notion I shared if you clicked to open one of the methods I could fill out an entire page with more information. Keeping a very organized record. 
+
+Look up Second brain.   <@726431491784966144> did a good video on it: https://www.youtube.com/watch?v=-EGjENtvKT8&t=3s"
+,,"My first month just finished. I also moved during that time... DON'T suggest that 🤣 . I went cray cray. Now starting to get a rythm. It's great, and this community was a big part of what made it possible. Thanks for your comments and support along the way <@902908123155668993>"
+,,"I've been meaning to ask how that's been going, but it seems so hush-hush on your end; but I'm so excited to see your progress! 😄"
+,,And I will be updating it as I dive deeper into UXR in my new position.
+,,Sent to me by a producer in reference to a survey we've been working on; types of likert scale response options: https://mwcc.edu/wp-content/uploads/2020/09/Likert-Scale-Response-Options_MWCC.pdf
+,,"Hello everyone ! I'm working on my UX Design course project which is about hotel booking website. As a part of the research stage, I need to make an affinity diagram along with a team. So, I'm looking for 3 volunteers for this activity. If you're interested, please DM me. Thanks !"
+,,this is niceeee... atleast for the newbies... great work man..
+,,Pinned Isaac's UR methods for future reference!
+,,
+,,"Hey @everyone,
+I am currently conducting an unmoderated usability study for my movie seat reservation chatbot app. The document has been attached for your perusal. I will be really grateful for some feedback on my high-fidelity prototype!"
+,,"What is your current message that you send to them?
+
+People may not feel like it's worth their time if they don't receive an incentive."
+,,"I'm struggling to find participants for a study. Approaches tried so far:
+-emailing everyone from our mailing list (2 responses)
+-facebook ads (0 responses)
+-reddit post (1 responses,  but most don't pass the screener)
+
+Would you guys recommend a service like UserInterviews to get participants? I'm scared of getting unrealistic participants"
+,,"Hi everyone, this is a user survey for my project to improve NGO's credibility. It only takes 4-5 mins to finish. Your help is much appreciated. Thank you. https://forms.gle/5sp4H7XEhufFshaQ7"
+,,"Yeah, it's strange. These aren't even specific users- these are just users they want to test their designs on. I'm trying to get a coffee chat today just to clarify this."
+,,"Wait, the hired UX agency is asking you all for participants? That's peculiar. Did they say why they can't do it themselves?"
+,,"What's really awkward is - I'm not even recruiting them for my own test. My company was working with a UX agency at the time they hired me, I came on board a little earlier than expected. It's the agency asking us to recruit the users for their test. I know this agency is being partly funded by a grant, but considering the amount they are paid, I'm quite surprised they can't hire 5 participants themselves for their own study. So these platforms may not let me 'hand over' the recruits. It's maddening. Sort of looking forward to them moving on so I can take control of things myself."
+,,"great tips from others, but I'd also consider how you can introduce and get that budget over the longer periods of time. It will be very hard to convince the stakeholders to invest into research outright. I'd therefore play a long game and start smaller and cheaper, even if it might not be 100% ideal. Once the sponsors get into new behaviours of covering the costs for research it's much easier to show the value from previous cases and ask for more.
+
+5 x 100usd on the other hand is nothing in terms of the costs - your UX design cost is probably that for each day you're on that project. I'd think of creating a small but tangible breakdown of the benefit in investing into it. If you can break down the cost vs benefits and have smaller discussions with the key decision makers you're more likely to get it approved. It of course depends on a lot of different factors such as timeframes and existing relationships"
+,,Maybe usability hub is a cheaper option? https://usabilityhub.com/pricing
+,,"Some subreddits allow this as well, but you could get various troll answers in the screener. Would also mean moderating the test yourself."
+,,Posted to your company's socials maybe for the screener depending on your traffic
+,,Could do a screener survey with small compensation if they pass the checks and move to the usability test? I did an interview with OnePlus for a $50 Amazon gift card.
+,,"I love this platform. Work was trying to purchase it but they wouldn't go through our security checks. The bad news is: ||it's $1,000s USD when my company asked for pricing :S||"
+,,Would https://usertesting.com be helpful?
+,,"Hey folks, I have a specific question;
+
+I need to recruit 5 users specifically from ME/SEA region for a usability test - besides the expensive services offered by agencies to do this (I've seen something like $100 a head, which I don't think I can get budget for), are there some decent ways to find these users?
+
+I should be able to sort compensation if I can get the right people for it. Just not $100-per-person sorted."
+,,"Hello everyone! I am currently working on my portfolio project, A Movie Ticket Booking Chatbot App. I would love to hear your insights on it through this design critique pdf."
+,,"ah thanks so much for letting me know! It's bad wording on my part, I've gone ahead and fixed it 🙂 Thanks again for taking this survey, it really helps me out!"
+,,"ok, I maybe haven't quite understood it. Hope it works well in the study 🙂"
+,,"Hmm I get it thanks for the help Michelle, I would suggest maybe having a note in the question to indicate that it is a ranking type of question. Other than that I hope the survey results can help you with your case study 👍 🙏"
+,,Cheesecake has two 5's and three 4's; they need 1 of each number total
+,,"no, per column is correct; radio buttons are single selection anyways; but it's looking for one 1, one 2, etc."
+,,"I feel like it should say one response per 'row', and not per 'column'."
+,,"It would help if the question specified that from the start, but unfortunately you don't learn that until you see the prompt you do now."
+,,This question is a reordering question. Basically you're listening preferences in order of your preference 1-5.
+,,Hey Mokkaroni I've tried filling up the survey but there's an issue with this questing that is not making me unable to proceed to the next page.
+,,"Hi everyone! I'm a UX student from the Google Course working on a personal project called Blume 🙂 If you have any spare time, would it be possible to fill out this screener survey? It should take less than 5 minutes. 
+
+Thanks so much in advance, I really appreciate it!  😍 
+
+https://forms.gle/wxU1EVkK8dMUkfKN7"
+,,"https://www.statista.com/
+But its paid"
+,,Hi there! Does anyone know if there is some site that I can find user survey results conducted before?
+,,"Thank your for asking. We all go through a type of emotional issues like disgust, anger, grief and so on. This survey can be taken by anyone either somebody is going through any emotional issue or not. This is just a generic survey to know what type of things people prefer while going through emotional issues.
+
+Hope that clears"
+,,"Will sure work on that 
+Thanks for advice 👍"
+,,"Hey, had a quick look; you have a lot of leading questions: Yes/No; I'd consider rephrasing them or using something like a Likert scale to understand the attitudes your potential audience has - Yes/No doesn't provide with actionable insights or context to inform further research (which presumably would be your interviews or other qualitative elements)"
+,,"hey, you specified that you need inputs from people with emotional issues - can you clarify that. For example, I wouldn't necessarily classify myself as that so wouldn't participate in your survey; If you are planning to give it out to public and then filter out then your questions would also need to allow for easy screening"
+,,"please guys, I need your help🥺"
+,,"Hello people!
+
+I'm currently designing a mental health app for individuals who are not doing well emotionally(having emotional issues). 
+
+This form has questions related to the same that I would like you to fill in genuinely. It'll take less than 5 minutes.
+
+You can DM me if you want to discuss anything related to the same.
+
+Thank you so much in advance. 
+
+Here is the form link
+
+https://forms.gle/rFb2jKxJUVvg7aHy9"
+,,"is there any resource as to when a particular User Research and analysis methodologies is truly helpful for a certain type of goal (pros and cons and when to use and why) such as personas, empathy mapping, diary studies, card sorting, etc."
+,,"https://forms.gle/9pP58PAasLPfshjJ6
+
+Hey Everyone🙂! Kindly fill this feedback form. This will help me a lot in my research work. Thank you in advance for taking your precious time to fill this form !
+
+Please share this with your friends/family too if possible"
+,,Thank you so much...😇
+,,"A lot of people have examples of this exact challenge in <#808006766440087562>, and Vy has a good video on how to construct a case study as well: https://www.youtube.com/watch?v=Uk_CMjetw7g&t=4s"
+,,"a) **Problem statement:** What are you trying to solve?
+b) **Research you've done and used:** What it says on the tin. What research methods are you using to collect data for this project?
+c) **High-level concepts supporting your findings:** Concepts you've tested and would help bring a solution to the problem statement in a.
+d) **Detailed wires for developer hand-off:** Wireframes that a developer can understand to bring your concept to life.
+e) **Ways to measure success:** How do you intend to measure the outcomes of your project and figure out whether it's succeeded or failed?"
+,,What exactly are you looking for help with? What is your task? The assignment seems fairly straightforward.
+,,"I'm Wase
+Here i got a UX challenge, can you help me to reach-out i'm beginner in UX please help me
+
+Please show the following artifacts within one (1) task and explain the journey from beginning to end:
+   - Problem statement
+   - Research you’ve done or used
+   - High-level concepts supporting your findings
+    - Detailed wires for developer hand-off
+    - Ways to measure success"
+,,"Hey friends! - I’m looking to recruit a few people to interview for my project. Do you use a mobile app or website to order food from a restaurant? I’m looking for people who use mobile-ordering apps for food at least once a week. If this sounds like you and you’d be open to letting me interview you, please schedule some time with me here:
+https://calendly.com/jennamalone/60min?month=2021-09
+Thank you, I really appreciate it! I would also be willing to help with being a participant in your interviews or surveys to express my gratitude."
+,,"Hey, I could use participants as well and would be willing to help! Are you in the US?"
+,,"Hi there! This is a short screener survey for a project revolving around article readers. If you could spare 2 mins of your time, it will greatly assist us in our research.
+
+Thank you!
+
+Survey Link:
+https://docs.google.com/forms/d/e/1FAIpQLSc5ukBOkN10fvaWuEv-6tqW_789R0Hy4KiPST8TowOP71pqEQ/viewform?usp=sf_link"
+,,Sounds interesting - I'm sure a lot of people here will be up to help you out
+,,Thanks. Luckily my project is a design course app/site which I think most of us would count as relevant users/target market.
+,,"Make sure that they are actual users, otherwise it will become a peer review. Nothing matches finding real people with real challenges that you're trying to solve"
+,,Usability testing me for you style is very unlikely to give you honest results. You owe it to yourself to find users the hard way.
+,,"Hi all, I was wondering if anyone was interested in helping each other out as interview/research subjects for each others projects. Right now I need some help to do usability tests over skype/discord and will return the favor for anything you need. If interested please DM me."
+,,Great suggestion <@239416214760194048>!
+,,"Hey everyone! Does someone have an experience with atomic research? You can read more about here:  https://blog.prototypr.io/what-is-atomic-research-e5d9fbc1285c
+I  would like to discuss about it. What's your opinion about this and the experience?  
+What kind of a repository did you created? Where? How you can use it for other research projects, and designs?"
+,,Thank you
+,,"Hi everyone, I am working on a travel guide booking service website. I am running a survey on google form it will take few min please help me https://forms.gle/YBz1t2tMKV2CvBZH8"
+,,"Thank you so much, Jamie. I'll paste your comment into my ""good to know"" notes about UX design.🤩"
+,,"It already sounds like you're on the right track adapting it to something that makes findings clearer for you. I think tools like that can sometimes be a vanity exercise when people just want that money shot of a sticky note wall, without being able to make sense of the chaos. I'm not a massive fan of the method in a physical space, but it can be great if you're working on a team as a lo-fi and inclusive way to present ideas with the same weight. I am into a column-based layout, at least that way you can read each theme/use case individually and clearly. I guess if you're immediately identifying good/neutral/bad, you just have to make sure your criteria for such is unbiased or based on identified pain points, so you don't end up solving for a problem which you created based on a presumption. Also remember, a big part of the affinity diagram is being able to investigate relationships between processes, and how to improve them, so the more information you can place before scoring, the better."
+,,"Hi everyone, I have a question about best practices for affinity diagrams. I had to do one as part of the requirements of a UX Design Course and noticed that my course mates adopted different approaches. Some put on each post-it the source of the observation made: e.g. which user in which usability test, which website amongst those assessed in a competitive benchmark, and so on. I did not put the source of the information, with the intention of avoiding information overload, but adopted a traffic light key instead for good/neutral/needing improvement, in order to assess at first sight which areas need more urgently intervention, after the card sorting into groups. If we consider that affinity diagrams are primarily a tool for identifying patterns: which approach fit best the scope? Probably it would depend on the scope of the research? I have no real life experience and would be happy to get input from some experienced designer. Thanks to anyone who will take some time to answer! ( I did get pass on this project 😄 )"
+,,"You might also consider their business goals, not just what you prefer in experience. It's always important to weigh in business needs, even if it's not always glamorous."
+,,"Data as in quant? What about qualitative insights?
+
+Also does that data capture attitudes or behaviours?
+
+These would be the gaps I would look for"
+,,"Hi all, I’m still really new to UX and was wondering how I could incorporate research into a project. I want to modernize Vice’s web and mobile experiences because they look lacking. But the thing is that they already have lots of audience data publicly available so I dont need to do all that research. Do I use the resources they have available and then make prototypes to then A/B test them on participants? This seems to make sense but I’m wondering if I’m missing any important steps before going right into prototyping."
+,,"Here's a cool article by one of the largest e-commerce brand in India :
+https://medium.com/design-at-flipkart/research-in-the-times-of-social-distancing-9eb8fb331ba8"
+,,"On the personas and user definitions topic, a good video with Larry Marine.
+https://www.youtube.com/watch?v=EbeUSRo0sU0"
+,,"e.g. if in your case study you have a polished personas that look awesome and it's obvious that you spent hours on it, but the rest if the research or project elements are poor - that's a big red flag. And that's just the most common example why you might not be progressed with <:3416bonk:869874305922646046>"
+,,"Personas are also a BS exercise most of the time, as people do it because they were told to do so in bootcamps and courses - they rarely know how to use them to inform the rest of activities in the discovery, research, definition, design etc. Archetypes in that regard are very actionable so again it's a fair question. One of those areas I as a hiring manager would always dig into is if UX designer knows what is what and why they chose to use it. Everything you do in UX has to have a cost effective reason"
+,,"I have a video coming up next week on interview mistakes - one of the points is exactly about that, don't BS, say you haven't had a chance to use it and personas were fine to this date. You are open to explore and try new methods"
+,,"It's a fair question... if you would use archetypes or jobs to be done instead of personas I'd ask the same, or vice versa. You should be able to explain why you chose one method instead of another. And if you don't know what that method is just say so"
+,,"Ahhh. I think archetypes aren’t widely taught in bootcamps…and online courses, I’ve never heard of them even though I don’t use persona details myself"
+,,Oh no that was clear to him but I guess he was just curious as to why we didn't use archetypes instead of personas
+,,Read Carl Gustav Jung.
+,,"Is this a debate of semantics, or is the interviewer asking how details you may have included in a persona, like age, sex/gender identity, occupation, hobbies impacted your design decisions? <@434528486233866251>"
+,,for people just confused as I am https://medium.com/interactive-mind/archetypes-not-personas-2e32c8306112
+,,So I did an interview today and I got asked this question that why didn't I use an archetype.  This was indeed a great question and i loved the feedback but can someone explain what the heck an archetype is and why I have never heard of it until today.
+,,
+,,"From recent vid, got a comment asking for the explanation graphic on YT"
+,,
+,,I'd prep for multiple sessions on big service piece like that. Starting with end to end high level outlines then unpacking area by area with relevant people and SMEs
+,,"User research workflow in a nutshell. Take this, add appropriate to the situation methods and tools."
+,,"Yeah, our CO workshop is only scheduled for 1 hour. The entire ecosystem(service) they want to tackle goes from ""Buying"", ""Servicing"", to ""ReSelling"" and repeat. There isn't a clear understanding on which part we should focus on. I worry that 1 hour is not nearly enough to cover and it can go off the rails pretty quickly. The guy who wants to run this CO has never done one. Actually, no one in entire UX team has done one."
+,,"If a product is that massive then its a service. You should look at appropriate methods to outline that. And design thinking can help yo engage the folk to contribute without previous assumptions or too much bias.
+
+ If you look at challenging orthodoxies it's really just a problem framing and how might we effort minus the boundaries"
+,,"Used it a couple of times in the past for opportunity outline/problem framing efforts. It's not really UX, but is a good tool to use for UX strategy to inform further projects/value areas to run UX. It's really that basic, that I guess is the good part of this method, as its easy to get people on it, as long as you prep a template, set expectations, draw some lines in terms of expectations and time box it"
+,,"<@!726431491784966144> Vax, is there any good online resources for doing a ""Challenging Orthodoxies"" design thinking exercises? The UX leadership wants to run a ""Challenging Orthodoxies Brainstorming Workshop"". My team is supporting the UX improvement, which is a part of the major modernization of our old school software product. The product is massive with both consumer and business facing components. I worry that this kind of brainstorming sessions get derailed pretty quickly. My UX designers get paired with domain experts, PMs, marketing, etc. We're trying to take on the entire product ecosystems. I found one very basic article online. But still feel pretty thin. Any advice on this kind of workshop would be helpful. Thanks.
+
+https://peerinsight.com/blog/ideation-orthodoxies/"
+,,"man I wish I had found this earlier, frustrated with no user response I ended up using just the playstore reviews.. well better late than never ... really well articulated"
+,,<@669125950247665664> this might give ideas for guerilla outreach methods you can do immediately https://blog.vaexperience.com/how-to-run-discovery-and-user-research-without-access-to-end-users-case-study/
+,,Thanks! I will give it a try
+,,Thank you! I will definitely read it.
+,,"I second that, I found the book through one of vae’s older videos, it’s a great resource"
+,,"Hi Midosu, I'd suggest to read the book User experience team of one by Leah Buley. It's a great way to understand how to integrate UX as a sole designer in the company."
+,,"Those kinds of discords and fb groups instantly remove that kind of media like surveys etc. Already gave them a shot but oh well, I'll stick to focusing on the current places ive posted to and see if I can boost engagement"
+,,"Of course it’s up to you, I can only keep my fingers crossed for you (which I will) 🤞"
+,,"And where did the student communities go? Do you have any forums? Facebook groups? MS channels? Maybe you can try to pass it round the people you know?
+
+If it’s important for you, do not fear to be „that guy”, as you described. Extra hustle may be worth it.
+
+Try to think of it as a UX scenario itself: how might you encourage those people to do that for you, make sure the copy is right and it has clear call to action."
+,,which is way too long for me to wait for
+,,"im in Canada, currently the city im in is still slowly opening things up and my school wont be accessible until the end of the year"
+,,Maybe a silly question - why can’t you?
+,,I posted on reddit earlier on but I havent looked at quora. It would be so much easier if I could just survey students around my university lol
+,,Not sure if that helps though
+,,"If I were you, I would go for reddit/quora and find people who may indeed see a purpose in filling this survey, i.e feel the problem you tackle with your research/ the matter is important for them and can relate"
+,,"Still it has a great downside - people go for quantity over quality, you may also miss the persona your’re looking for"
+,,<@130726156591693825> - I was asking myself the same question while getting replies for my master’s degree survey - it appears the facebook has a lot of groups where people do fill the surveys for each other
+,,"without being...yknow ""that person"" posting in youtube comments, every fb post etc"
+,,so im doing my first UX case study for my portfolio that's not an assignment from school and was wondering where are some good places you can post surveys for free?
+,,"<@!867013896459780147> When I need some insights for personal portfolio an the insights are general informations I use google forms and
+ facebook groups. It is a really low-budget way to get some insights."
+,,Thanks for the answers! I'll do a hypothesis
+,,"If its mobile examples you seek then this is a pretty good resource: https://mobbin.design/patterns/
+
+Ultimately I'd come up with good hypothesis first of why you need it and how you'd think it would add value to the user. Then define it. User test it and reflect on hypothesis. You can and should test it - will be clear if it adds value or not and in what terms (patterns)"
+,,"Hey! Although I'm a beginner and don't know much about the design trends before say 2020, I have observed that onboarding screens are a prominent feature of apps these days. But in the real world, I definitely have come across several apps without any onboarding at all."
+,,"Hey all, research question:
+
+Have you ever designed an app with just one onboarding page or no onbaording at all? 
+
+The app Im designing is pretty self explanatory and you can enter it without making and account (it's optional).
+I've been researching the app market and I can't really find this.
+
+I like this pinterest onboaring where its just Welcome and then account https://www.google.com/search?q=pinterest+app+onboarding&client=ms-android-huawei-rev1&prmd=ivn&sxsrf=ALeKk02lMYuSZLLHKgTKTpNAtABrojcxIw:1621081977528&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiD96_72MvwAhXHGuwKHRIaA2sQ_AUoAXoECAIQAQ&biw=360&bih=699&dpr=3#imgrc=PSiaiEJ0xKYgcM"
+,,"Coming out tomorrow: 
+https://youtu.be/VDMNblx8xgM"
